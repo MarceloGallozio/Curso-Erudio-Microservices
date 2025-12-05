@@ -1,0 +1,4 @@
+br\com\microservice_erudio\config\GreetingConfiguration.class
+br\com\microservice_erudio\Startup.class
+br\com\microservice_erudio\controller\GreetingController.class
+br\com\microservice_erudio\model\Greeting.class
